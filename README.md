@@ -1,7 +1,7 @@
 
 # Real-Time Object Detection-Based Self-Driving Car using MobileNet
 
-Self-driving car designed to operate without human involvement and make quicker and more rational decisions than humans, potentially saving millions of lives lost annually due to human errors. A Real-Time Object Detection-Based Self-Driving Car using Deep Learning models and techniques, along with various hardware, aims to be accurate, reliable, and responsive to minimize road accidents and make road transportation safer.
+Self-driving car designed to operate without human involvement and make quicker and more rational decisions than humans, potentially saving millions of lives lost annually due to human errors. A Real-Time Object Detection-Based Self-Driving Car using MobileNet models and techniques, along with various hardware, aims to be accurate, reliable, and responsive to minimize road accidents and make road transportation safer.
 
 
 ## Features
