@@ -42,7 +42,7 @@ Self-driving car designed to operate without human involvement and make quicker 
 
 ## More Details
 - [Video Demo](https://youtu.be/FKGEGob4apk)
-- [Report](#)
+- [Report](https://drive.google.com/file/d/1nrlYSRgAwBTSz5askrugsIx8VmMzlTiD/view?usp=sharing)
 
 ## Authors
 
