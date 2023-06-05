@@ -41,7 +41,7 @@ Self-driving car designed to operate without human involvement and make quicker 
 ![Output](https://raw.githubusercontent.com/Arbind15/ReadmeStuffs/main/out.png)
 
 ## More Details
-- [Report](https://drive.google.com/file/d/1nrlYSRgAwBTSz5askrugsIx8VmMzlTiD/view?usp=sharing)
+- [Report](https://drive.google.com/file/d/1iM-NkAhraHM8F5mx6l3_0a7veU9jwjmh/view?usp=sharing)
 - [Video Demo](https://youtu.be/FKGEGob4apk)
 
 ## Authors
